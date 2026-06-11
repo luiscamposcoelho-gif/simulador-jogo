@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f9e8; /* Verde claro sustentável */
+    margin: 0;
+    color: #2d5a27;
+    text-align: center;
+}
+
+header {
+    background-color: #4CAF50; /* Verde Agrinho */
+    color: white;
+    padding: 20px 0;
+}
+
+#game-container {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
+}
+
+canvas {
+    background-color: #fff;
+    border: 5px solid #8B4513; /* Borda cor de terra */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#info {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 15px;
+    border-left: 10px solid #fbc02d; /* Amarelo das oportunidades [12] */
+}
+
+footer {
+    padding: 10px;
+    font-size: 0.8em;
+}
